@@ -1,0 +1,15 @@
+1 7 mainfsm 4 fast 32 C:/LAB3Multicycle Processor/work 0 0 131072 0 228 0
+1 6 aludec 4 fast 32 C:/LAB3Multicycle Processor/work 0 0 0 0 48 0
+1 8 instrdec 4 fast 32 C:/LAB3Multicycle Processor/work 0 0 0 0 25 0
+1 10 controller 4 fast 32 C:/LAB3Multicycle Processor/work 0 0 0 0 64 0
+1 7 flopenr 4 fast 32 C:/LAB3Multicycle Processor/work 0 0 0 0 35 0
+1 5 flopr 4 fast 32 C:/LAB3Multicycle Processor/work 0 0 0 0 31 0
+1 7 regfile 4 fast 32 C:/LAB3Multicycle Processor/work 0 0 0 0 40 0
+1 6 extend 4 fast 32 C:/LAB3Multicycle Processor/work 0 0 0 0 63 0
+1 4 mux3 4 fast 32 C:/LAB3Multicycle Processor/work 0 0 0 0 55 0
+1 3 alu 4 fast 32 C:/LAB3Multicycle Processor/work 0 0 0 0 49 0
+1 8 datapath 4 fast 32 C:/LAB3Multicycle Processor/work 0 0 0 0 136 0
+1 5 riscv 4 fast 32 C:/LAB3Multicycle Processor/work 0 0 0 0 68 0
+1 3 mem 4 fast 32 C:/LAB3Multicycle Processor/work 0 0 0 0 33 0
+1 3 top 4 fast 32 C:/LAB3Multicycle Processor/work 0 0 0 0 26 0
+1 9 testbench 4 fast 32 C:/LAB3Multicycle Processor/work 0 0 0 0 57 0
